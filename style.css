@@ -1,0 +1,212 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.container1{
+	width:100%;
+	height:80vh;
+	display:flex;
+	padding:10px;
+	flex-direction:row;
+	justify-content:space-evenly;
+	align-items:stretch;
+}
+
+.vatican{
+	display:flex;
+    flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	width:16%;
+	height:56vh;
+	text-align:center;
+	border-radius:2px;
+	padding-bottom:20px;
+	box-shadow:0px 1px 1px 0px #000000;
+	background:#ffffff;
+} 
+
+img{
+    width:242px;
+	height:160px;
+}
+
+.para1{
+	font-size:10px;
+	line-height:1.7;
+	font-family:nunito;
+}
+
+.button1{
+	width:80%;
+	text-align:center;
+	font-size:12px;
+	background-color:#020202;
+	color:#fafafa;
+	padding:10px;
+	border-radius:2px;
+}
+
+.borabora{
+	display:flex;
+    flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	width:16%;
+	height:56vh;
+	text-align:center;
+	border-radius:2px;
+	padding-bottom:20px;
+	box-shadow:0px 1px 1px 0px #000000;
+	background:#ffffff;
+} 
+
+.para2{
+	font-size:10px;
+	line-height:1.7;
+	font-family:nunito;
+}
+
+.button2{
+	width:80%;
+	text-align:center;
+	font-size:12px;
+	background-color:#020202;
+	color:#fafafa;
+	padding:10px;
+	border-radius:2px;
+}
+
+.cappadocia{
+	display:flex;
+    flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	width:16%;
+	height:56vh;
+	text-align:center;
+	border-radius:2px;
+	padding-bottom:20px;
+	box-shadow:0px 1px 1px 0px #000000;
+	background:#ffffff;
+} 
+
+.para3{
+	font-size:10px;
+	line-height:1.7;
+	font-family:nunito;
+}
+
+.button3{
+	width:80%;
+	text-align:center;
+	font-size:12px;
+	background-color:#020202;
+	color:#fafafa;
+	padding:10px;
+	border-radius:2px;
+}
+
+.container2{
+	width:100%;
+	height:80vh;
+	display:flex;
+	padding:10px;
+	flex-direction:row;
+	justify-content:space-evenly;
+	align-items:stretch;
+	flex-wrap:wrap;
+}
+
+.amalficoast{
+	display:flex;
+    flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	width:16%;
+	height:56vh;
+	text-align:center;
+	border-radius:2px;
+	padding-bottom:20px;
+	box-shadow:0px 1px 1px 0px #000000;
+	background:#ffffff;
+} 
+
+.para4{
+	font-size:10px;
+	line-height:1.7;
+	font-family:nunito;
+}
+
+.button4{
+	width:80%;
+	text-align:center;
+	font-size:12px;
+	background-color:#020202;
+	color:#fafafa;
+	padding:10px;
+	border-radius:2px;
+}
+
+.yosemitenationalpark{
+	display:flex;
+    flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	width:16%;
+	height:56vh;
+	text-align:center;
+	border-radius:2px;
+	padding-bottom:20px;
+	box-shadow:0px 1px 1px 0px #000000;
+	background:#ffffff;
+} 
+
+.para5{
+	font-size:10px;
+	line-height:1.7;
+	font-family:nunito;
+}
+
+.button5{
+	width:80%;
+	text-align:center;
+	font-size:12px;
+	background-color:#020202;
+	color:#fafafa;
+	padding:10px;
+	border-radius:2px;
+}
+
+.galapagosislands{
+	display:flex;
+    flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	width:16%;
+	height:56vh;
+	text-align:center;
+	border-radius:2px;
+	padding-bottom:20px;
+	box-shadow:0px 1px 1px 0px #000000;
+	background:#ffffff;
+} 
+
+.para6{
+	font-size:10px;
+	line-height:1.7;
+	font-family:nunito;
+}
+
+.button6{
+	width:80%;
+	text-align:center;
+	font-size:12px;
+	background-color:#020202;
+	color:#fafafa;
+	padding:10px;
+	border-radius:2px;
+}
+
